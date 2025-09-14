@@ -26,12 +26,14 @@ Authentication: Express-session
 
 Deployment: Render
 
-🌍Image Templates
-![image1](image1.png)
-![image2](image2.png)
--->For Admin
-![image3](image3.png)
--->For user
-![image4](image4.png)
+🌍Some screenshots of website
+<p align="center">
+  <img src="image1" alt="Screenshot 1" width="250"/>
+  <img src="image2" alt="Screenshot 2" width="250"/>
+  <h2>Admin interface</h2>
+  <img src="image3" alt="Screenshot 3" width="250"/>
+   <h2>User interface</h2>
+  <img src="image4" alt="Screenshot 4" width="250"/>
+</p>
 
 
