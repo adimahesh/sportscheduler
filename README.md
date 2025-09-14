@@ -28,12 +28,13 @@ Deployment: Render
 
 🌍Some screenshots of website
 <p align="center">
-  <img src="image1" alt="Screenshot 1" width="250"/>
-  <img src="image2" alt="Screenshot 2" width="250"/>
+  <img src="image1" alt="Screenshot 1" width="500"/>
+  <h2></h2>h2>
+  <img src="image2" alt="Screenshot 2" width="500"/>
   <h2>Admin interface</h2>
-  <img src="image3" alt="Screenshot 3" width="250"/>
+  <img src="image3" alt="Screenshot 3" width="500"/>
    <h2>User interface</h2>
-  <img src="image4" alt="Screenshot 4" width="250"/>
+  <img src="image4" alt="Screenshot 4" width="500"/>
 </p>
 
 
