@@ -38,4 +38,4 @@ Deployment: Render
   <img src="image4" alt="Screenshot 4" width="500"/>
 </p>
 
-🔗 Website link: [🔗 Project ](https://sportscheduler-sk9i.onrender.com/)
+🔗 Website link: [sport-scheduler](https://sportscheduler-sk9i.onrender.com/)
