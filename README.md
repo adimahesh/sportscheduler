@@ -26,4 +26,12 @@ Authentication: Express-session
 
 Deployment: Render
 
+🌍Image Templates
+![image1](image1.png)
+![image2](image2.png)
+-->For Admin
+![image3](image3.png)
+-->For user
+![image4](image4.png)
+
 
